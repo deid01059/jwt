@@ -1,8 +1,7 @@
 
 
 ## JWT에 대하여
-
-<h4>JWT(JSON Web Token)이란?<h4>
+### JWT(JSON Web Token)이란
     
 - 토큰 기반 인증 시스템에서 사용하는 토큰 작성 기술
 - 인증에 필요한 정보들을 암호화 시킨 토큰
